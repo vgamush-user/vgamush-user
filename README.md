@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=00FF41&pause=1000&lines=Hi+I+am+Amuthavel+Vignesh;B.Tech+Production+Engg+%7C+NIT+Calicut;BS+Data+Science+%7C+IIT+Madras;Full-Stack+Development+%7C+AI-ML)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00F20G&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 🌐 Connect with me via:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/AmuthavelV68684) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:vgamush@gmail.com)
