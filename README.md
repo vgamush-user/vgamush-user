@@ -20,12 +20,12 @@
 
 **Backend:**
 
-[![Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask)
 
 **Databases**
 
 
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres)
 
 **AI Integrations:**
 
