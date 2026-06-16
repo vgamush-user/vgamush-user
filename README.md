@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello everyone, I am Amuthavel, I am currently a fresher pursuing B.Tech<br>in Production Engineering at NIT Calicut simultaneously pursing the Online<br>BS Degree at IIT Madras, I wish to be a Web Developer and so I have<br>started to use Github and upload my Projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+%7C+Developer+%2FMLAI-ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack-Developer+%7CAI-ML)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmuthavelV68684) 
