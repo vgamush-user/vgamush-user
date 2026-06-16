@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vgamush-user&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vgamush-user&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
