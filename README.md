@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&lines=Hi+I+am+Amuthavel+Vignesh;B.Tech@+NIT+Calicut+%7C+BS@+IIT+Madras;Full-Stack+Development+%7C+AI-ML)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
 ## 🌐 Socials:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/AmuthavelV68684) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:vgamush@gmail.com)
 
@@ -43,7 +45,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vgamush-user&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
