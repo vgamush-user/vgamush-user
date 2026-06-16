@@ -6,21 +6,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmuthavelV68684) 
 
 # 💻 Tech Arsenal:
-**Languages**
+**Languages:**
 
 [![Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
-**Deployment Tools**
+**Deployment Tools:**
 
 [![Skills](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
 
-**Frontend**
+**Frontend:**
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-**Backend**
+**Backend:**
 
 [![Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+
+**AI Integrations:**
+
+[![Skills](https://skillicons.dev/icons?i=pandas,tensorflow,scikit-learn)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vgamush-user&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vgamush-user&theme=dark&hide_border=false)<br/>
