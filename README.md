@@ -7,8 +7,11 @@
 
 # 💻 Tech Arsenal:
 **Languages**
+
 [![Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
 **Deployment Tools**
+
 [![Skills](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vgamush-user&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
