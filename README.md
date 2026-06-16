@@ -8,7 +8,7 @@
 # 💻 Tech Arsenal:
 **Languages:**
 
-[![Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java)
 
 **Deployment Tools:**
 
