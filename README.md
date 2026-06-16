@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&lines=Hi+I+am+Amuthavel+Vignesh;B.Tech@+NIT+Calicut+%7C+BS@+IIT+Madras;Full-Stack+Development+%7C+AI-ML)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/AmuthavelV68684) 
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/AmuthavelV68684) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:vgamush@gmail.com)
 
 # 💻 Tech Arsenal:
 **Languages:**
