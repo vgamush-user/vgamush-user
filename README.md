@@ -12,11 +12,11 @@
 
 **Deployment Tools:**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vercel)
 
 **Frontend:**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
 
 **Backend:**
 
