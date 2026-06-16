@@ -24,12 +24,11 @@
 
 **Databases**
 
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres)
 
 **AI Integrations:**
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,tensorflow,sklearn,pytorch)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vgamush-user&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vgamush-user&theme=dark&hide_border=false)<br/>
