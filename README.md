@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/AmuthavelV68684) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:vgamush@gmail.com)
-
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/lPIQDizhQK/)
 # 💻 Tech Arsenal:
 **Languages:**
 
@@ -30,7 +30,7 @@
 
 **AI Integrations:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,tensorflow,sklearn,pytorch,langchain,langgraph)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,tensorflow,sklearn,pytorch,langchain)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vgamush-user&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vgamush-user&theme=dark&hide_border=false)<br/>
