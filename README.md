@@ -24,7 +24,7 @@
 
 **AI Integrations:**
 
-[![Skills](https://skillicons.dev/icons?i=pd,tensorflow,sk-learn)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=panda,tensorflow,sk-learn)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vgamush-user&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vgamush-user&theme=dark&hide_border=false)<br/>
