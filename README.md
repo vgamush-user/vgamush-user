@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Amuthavel_Vignesh;B.Tech@NIT-Calicut+%7CBS-@-IIT-Madras;Full-Stack-Development+%7CAI-ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+%7FI+%7Fam+%7FAmuthavel+%7FVignesh;B.Tech+%7F@NIT+%7FCalicut+%7CBS+%7F@+%7FIIT+%7FMadras;Full-Stack-Development+%7CAI-ML)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmuthavelV68684) 
