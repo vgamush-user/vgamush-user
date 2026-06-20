@@ -16,7 +16,7 @@
 
 **Deployment Tools:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vercel)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vercel,supabase)
 
 **Frontend:**
 
