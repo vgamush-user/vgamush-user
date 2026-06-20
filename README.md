@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=800080&pause=1000&lines=Hi+I+am+Amuthavel+Vignesh;B.Tech+Prod.Engg+%7C+NIT+Calicut;BS+Data+Science+%7C+IIT+Madras;Full-Stack+Development+%7C+AI-ML;Agentic+AI+%7C+CP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=FFFF00&pause=1000&lines=Hi+I+am+Amuthavel+Vignesh;B.Tech+Prod.Engg+%7C+NIT+Calicut;BS+Data+Science+%7C+IIT+Madras;Full-Stack+Development+%7C+AI-ML;Agentic+AI+%7C+CP)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
