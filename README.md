@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vgamush-user&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 🌐 Connect with me via:
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-enter-00FF41?style=for-the-badge)](https://my-portfolio-1bqkl2hih-amuthavel-vignesh-v-s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-enter-00FF41?style=for-the-badge)](https://my-portfolio-two-beta-90.vercel.app/)
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amuthavel-vignesh-v-346a34371) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/AmuthavelV68684) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:vgamush@gmail.com)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/lPIQDizhQK/)
