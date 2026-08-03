@@ -24,7 +24,7 @@
 
 **Backend:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask,gradio)
 
 **Databases**
 
