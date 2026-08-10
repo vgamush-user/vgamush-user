@@ -20,7 +20,7 @@
 
 **Frontend:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,vue)
 
 **Backend:**
 
