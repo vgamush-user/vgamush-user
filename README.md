@@ -12,7 +12,7 @@
 # 💻 Tech Arsenal:
 **Languages:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,ts,linux)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,java,ts,linux)
 
 **Deployment Tools:**
 
