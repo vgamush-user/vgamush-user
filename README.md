@@ -16,7 +16,7 @@
 
 **Deployment Tools:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vercel,supabase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vercel,supabase,docker)
 
 **Frontend:**
 
@@ -24,7 +24,7 @@
 
 **Backend:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask,gradio)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask,gradio,fastapi)
 
 **Databases**
 
